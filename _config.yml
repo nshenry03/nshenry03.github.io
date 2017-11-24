@@ -3,23 +3,28 @@
 # ----------------------- #
 
 url: http://nshenry03.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Nick Henry's Blog
+subtitle: |
+  Life is like a box of chocolates; you never know what you're gonna get.
+author: Nick Henry
 simple_search: https://www.google.com/search
-description:
+description: |
+  I'm not sure what all I'll write about here. I don't always write
+  configuration management and infrastructure automation code but sometimes I
+  do. Other interests include volleyball, softall, hiking, running, and country
+  swing dancing.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
 # http://www.ruby-doc.org/core-1.9.2/Time.html#method-i-strftime
 # Additionally, %o will give you the ordinal representation of the day
-date_format: "ordinal"
+date_format: "%F"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: nshenry03@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -64,8 +69,8 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
-github_repo_count: 0
+github_user: nshenry03
+github_repo_count: 1
 github_show_profile_link: true
 github_skip_forks: true
 
@@ -79,7 +84,7 @@ google_plus_one_size: medium
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
-googleplus_user:
+googleplus_user: nshenry03@gmail.com
 googleplus_hidden: false
 
 # Pinboard
