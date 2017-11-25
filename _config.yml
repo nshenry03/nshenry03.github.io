@@ -4,15 +4,10 @@
 
 url: http://nshenry03.github.io
 title: Nick Henry's Blog
-subtitle: |
-  Life is like a box of chocolates; you never know what you're gonna get.
+subtitle: Life is like a box of chocolates; you never know what you're gonna get.
 author: Nick Henry
 simple_search: https://www.google.com/search
-description: |
-  I'm not sure what all I'll write about here. I don't always write
-  configuration management and infrastructure automation code but sometimes I
-  do. Other interests include volleyball, softall, hiking, running, and country
-  swing dancing.
+description: I am not sure what all I will write about here.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -84,7 +79,7 @@ google_plus_one_size: medium
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
-googleplus_user: nshenry03@gmail.com
+googleplus_user: +NicholasHenry
 googleplus_hidden: false
 
 # Pinboard
