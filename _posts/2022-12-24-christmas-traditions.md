@@ -16,10 +16,12 @@ excerpt: >
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0BmLuSWLejg?si=Q1kv2m2YQa3PaB2q" title="Slovak Christmas Tradition - VĪNCHUĚM VĪNCHUĚM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Listen: <audio controls><source src="https://dymw3y3o2elwz.cloudfront.net/posts/2022-12-24-christmas-traditions/christmas-traditions.mp3" type="audio/mpeg"></audio>
+
 Christmas is a special time for me and my family.  We still do many of the
 Slovak customs my grandpa and his family have been doing for over 113 years.
 His parents began the traditions with their marriage in 1909 and we have
-followed the traditions ever since then. 
+followed the traditions ever since then.
 
 Every year on Christmas Eve, we would get up early to “Vinchovats (sp?)” with
 Grandpa. We’d get up at 5 or 6 am and drive to Grandpa and Grandma’s house.
