@@ -2,10 +2,10 @@
 title: About Journal
 subtitle: A stunning personal blog Jekyll theme with an image-focused design.
 description: A stunning personal blog Jekyll theme with an image-focused design.
-featured_image: /images/demo/demo-portrait.jpg
+featured_image: /images/page-images/IMG_20200807_060949.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/page-images/IMG_20200807_060949.jpg)
 
 ## Features
 
