@@ -28,3 +28,22 @@ header, footer, section {
 	clear: both;
 	width: 100%;
 }
+
+.task-list-item-checkbox {
+  display: inline-block !important;
+  appearance: auto !important;
+  -webkit-appearance: checkbox !important;
+  width: auto !important;
+  height: auto !important;
+  margin-right: 0.5em;
+}
+
+.task-list-item {
+  list-style: none;
+}
+
+.task-list-item-checkbox {
+  display: inline-block;
+  margin-left: -1.5em; /* pull it back into the bullet position */
+  margin-right: 0.5em;
+}
